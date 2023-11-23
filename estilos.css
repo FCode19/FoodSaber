@@ -402,6 +402,7 @@ footer {
     font-size: 16px;
     cursor: pointer;
     display: none;
+    width: 40px;
 }
 
 #scrollToTopBtn:hover {
